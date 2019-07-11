@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/vasa-develop/did-ethr-demo/issues"
   },
-  "homepage": "https://github.com/vasa-develop/did-ethr-demo#readme"
+  "homepage": "https://github.com/vasa-develop/did-ethr-demo#readme",
+  "dependencies": {
+    "did-resolver": "0.0.7",
+    "ethjs-provider-http": "^0.1.6",
+    "ethr-did": "^1.1.0",
+    "ethr-did-resolver": "^0.2.0"
+  }
 }
