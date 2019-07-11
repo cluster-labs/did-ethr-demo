@@ -1,0 +1,26 @@
+{
+  "name": "did-ethr-demo",
+  "version": "1.0.0",
+  "description": "A demo demostrating DID ETHR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasa-develop/did-ethr-demo.git"
+  },
+  "keywords": [
+    "did",
+    "ethr",
+    "did-resolver",
+    "ethr-did-resolver",
+    "ethr-did"
+  ],
+  "author": "vasa-develop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vasa-develop/did-ethr-demo/issues"
+  },
+  "homepage": "https://github.com/vasa-develop/did-ethr-demo#readme"
+}
